@@ -1,3 +1,5 @@
+//seq-junho-004
+
 package com.example.agendiario;
 
 import android.app.SearchManager;
